@@ -3,7 +3,7 @@
 
 eureka:
   instance:
-    hostname: 192.168.33.10
+    hostname: config-server
   # standalone mode
   client:
     registerWithEureka: false
